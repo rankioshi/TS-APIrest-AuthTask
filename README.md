@@ -28,7 +28,6 @@ O NestJS foi escolhido porque fornece uma arquitetura estruturada baseada nos co
 1. Clone o repositório
    ```bash
    git clone https://github.com/rankioshi/TS-APIrest-AuthTask
-   cd rankioshi-todo-apit
    ```
 
 2. Instale as dependências
