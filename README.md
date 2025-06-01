@@ -2,6 +2,8 @@
 
 Uma API RESTful para gerenciamento de tarefas construída com NestJS. Esta aplicação fornece um sistema backend robusto para gerenciar tarefas, incluindo autenticação de usuários, criação, atualização, filtragem e exclusão de tarefas.
 
+<img src="imgs/swaggerUI.png"/>
+
 ## Stack de Tecnologias
 
 - **Framework**: [NestJS](https://nestjs.com/) - Um framework progressivo do Node.js para construção de aplicações server-side eficientes, confiáveis e escaláveis.
@@ -35,6 +37,8 @@ O NestJS foi escolhido porque fornece uma arquitetura estruturada baseada nos co
    ```
 
 ## Executando a Aplicação
+
+<img src="imgs/npmstart.png"/>
 
 ### Modo de Desenvolvimento
 
