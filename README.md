@@ -38,7 +38,7 @@ O NestJS foi escolhido porque fornece uma arquitetura estruturada baseada nos co
 
 ## Executando a Aplicação
 
-<img src="imgs/npmstart.png"/>
+<img src="imgs/npmstart.gif"/>
 
 ### Modo de Desenvolvimento
 
